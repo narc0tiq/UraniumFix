@@ -1,0 +1,15 @@
+[{
+  "modid": "IC2.UraniumFix",
+  "name": "Uranium Fix",
+  "description": "Fixes a bug in IC2 where the Uranium ore drop is not compressable to a uranium ingot. Requested by SegFaulter on the IC2 forum."
+  "version": "%conf:VERSION%",
+  "mcversion": "1.4.5",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Narc"],
+  "credits": "Thanks to SegFaulter for requesting it."
+  "parent": "",
+  "screenshots": [],
+  "dependencies": ["IC2"]
+}]
